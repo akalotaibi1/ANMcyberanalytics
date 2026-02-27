@@ -203,9 +203,6 @@ mapred streaming \
     -output /user/malhokail/project/m1/task3
 ```
 
-> Full cluster execution log and output will be added after running on `/data/chicago_crimes.csv`.
-
----
 
  Task 4: The Time Dimension
 
